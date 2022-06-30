@@ -1,4 +1,7 @@
 a {
-  color = orange;
+  color: orange;
 }
 
+body {
+  font: sans-serif;
+}
